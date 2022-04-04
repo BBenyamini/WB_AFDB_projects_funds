@@ -1,0 +1,5 @@
+https://databank.worldbank.org/data/download/WDI_excel.zip
+
+https://databank.worldbank.org/data/download/WDI_csv.zip
+
+"http://search.worldbank.org/api/projects/all.xls"
